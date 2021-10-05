@@ -10,5 +10,5 @@ A new issue will be updated every day (or > 1 a day) so be active and contribute
  
 
  - hacktoberfest
- - hacktoberfest-accepted
+ - hacktoberfest-accepte
  
